@@ -1,0 +1,41 @@
+@font-face {
+ font-family: figtree;
+ src: url(assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+
+body {
+ background-color: hsl(47, 88%, 63%);
+ font-family: figtree;
+ font-weight: 500;
+}
+
+.tag {
+ background-color: hsl(47, 88%, 63%);
+}
+
+time {
+ color:hsl(0, 0%, 7%);
+}
+
+article {
+box-sizing: border-box;
+width: 320px;
+height: 435px;
+border-radius: 18px;
+box-shadow: 0px px 4px 2px;
+box-shadow: 7px 8px 0px;
+}
+
+p {
+ color:hsl(0, 0%, 42%);
+}
+
+.attribution { 
+ font-size: 11px; 
+ text-align: center; 
+}
+
+.attribution a { 
+ color: hsl(228, 45%, 44%); 
+}
+
